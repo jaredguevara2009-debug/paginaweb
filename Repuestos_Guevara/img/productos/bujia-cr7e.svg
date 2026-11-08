@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ilustración referencial de una bujía CR7E">
+  <defs>
+    <linearGradient id="ceramic" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#93969a"/><stop offset=".2" stop-color="#f4f4f2"/><stop offset=".62" stop-color="#d4d5d4"/><stop offset="1" stop-color="#85878b"/></linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3f4f4"/><stop offset=".23" stop-color="#7e8186"/><stop offset=".51" stop-color="#d5d7d9"/><stop offset=".79" stop-color="#4c4f54"/><stop offset="1" stop-color="#b2b4b7"/></linearGradient>
+    <radialGradient id="shadow"><stop stop-color="#000" stop-opacity=".45"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="244" cy="299" rx="72" ry="20" fill="url(#shadow)"/>
+  <g transform="rotate(19 238 175)">
+    <path d="M218 59h42v25h-42z" fill="#25262a" stroke="#a5a7aa" stroke-width="3"/>
+    <path d="M211 78h56v14h-56z" fill="url(#steel)" stroke="#26272b" stroke-width="3"/>
+    <path d="M214 92h50v97h-50z" fill="url(#ceramic)" stroke="#67696d" stroke-width="2"/>
+    <path d="M211 109h56M211 124h56M211 139h56M211 154h56" stroke="#989a9e" stroke-width="2" opacity=".7"/>
+    <path d="M209 188h61v16h-61z" fill="url(#steel)" stroke="#35363a" stroke-width="3"/>
+    <path d="M205 204h69l-7 18h-55z" fill="url(#steel)" stroke="#333438" stroke-width="3"/>
+    <path d="M213 220h54l-9 31h-37z" fill="#222327" stroke="#a6a8ac" stroke-width="3"/>
+    <path d="M226 248h28v33h-28z" fill="url(#steel)" stroke="#25262a" stroke-width="3"/>
+    <path d="M228 280c-1 18 0 23 8 26 7-3 8-8 8-26" fill="#26272b" stroke="#b4b6b9" stroke-width="4"/>
+    <path d="M243 273h25v9h-25" fill="none" stroke="#d7d9da" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M217 101h44" stroke="#e63946" stroke-width="3"/>
+    <text x="239" y="156" fill="#37383c" font-family="Arial,sans-serif" font-size="11" font-weight="800" text-anchor="middle">CR7E</text>
+  </g>
+  <path d="M342 73l39-13m-29 25 48-16M89 277l42-12" stroke="#e63946" stroke-width="3" stroke-linecap="round" opacity=".75"/>
+  <text x="240" y="326" fill="#bcbcc0" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="4" text-anchor="middle">BUJÍA DE ENCENDIDO</text>
+</svg>

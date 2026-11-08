@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ilustración referencial de un envase de aceite 20W-50">
+  <defs>
+    <linearGradient id="bottle" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5b5c62"/><stop offset=".18" stop-color="#26272b"/><stop offset=".48" stop-color="#111215"/><stop offset=".76" stop-color="#25262a"/><stop offset="1" stop-color="#07080a"/></linearGradient>
+    <linearGradient id="label" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e84752"/><stop offset=".5" stop-color="#bb1e2b"/><stop offset="1" stop-color="#7e101a"/></linearGradient>
+    <linearGradient id="cap" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#999ba0"/><stop offset=".22" stop-color="#34363a"/><stop offset=".6" stop-color="#111215"/><stop offset="1" stop-color="#66686d"/></linearGradient>
+    <radialGradient id="shadow"><stop stop-color="#000" stop-opacity=".45"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="245" cy="310" rx="105" ry="21" fill="url(#shadow)"/>
+  <path d="M193 70h113l16 32v32l24 20v128q0 14-15 14H166q-15 0-15-14V152l25-20v-31z" fill="url(#bottle)" stroke="#85868b" stroke-width="3"/>
+  <path d="M211 52h82v24h-82z" fill="url(#cap)" stroke="#77797e" stroke-width="2"/>
+  <path d="M207 44h91v14h-91z" rx="4" fill="#17181b" stroke="#77797e" stroke-width="2"/>
+  <path d="M184 164h146v98H184z" fill="url(#label)" stroke="#f15c67" stroke-width="2"/>
+  <path d="M184 164h146v9H184z" fill="#101114" opacity=".85"/>
+  <path d="M184 247h146v15H184z" fill="#101114" opacity=".9"/>
+  <text x="257" y="205" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3" text-anchor="middle">MOTO</text>
+  <text x="257" y="237" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="800" text-anchor="middle">20W-50</text>
+  <path d="M181 91h20v45h-20z" fill="#8a8c91" opacity=".28"/>
+  <path d="M168 156h12v119h-12z" fill="#fff" opacity=".07"/>
+  <path d="M346 91l28-13m-20 26 37-17M116 240l30-14" stroke="#e63946" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+  <text x="244" y="329" fill="#bcbcc0" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="4" text-anchor="middle">LUBRICACIÓN</text>
+</svg>

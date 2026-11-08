@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ilustración referencial de una llanta de motocicleta">
+  <defs>
+    <linearGradient id="rubber" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4c4d52"/><stop offset=".24" stop-color="#16171a"/><stop offset=".55" stop-color="#303136"/><stop offset=".8" stop-color="#090a0c"/><stop offset="1" stop-color="#4f5054"/></linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".22" stop-color="#7b7e83"/><stop offset=".48" stop-color="#e7e8e9"/><stop offset=".72" stop-color="#5b5e63"/><stop offset="1" stop-color="#c6c7c9"/></linearGradient>
+    <radialGradient id="shadow"><stop stop-color="#000" stop-opacity=".5"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="242" cy="298" rx="153" ry="25" fill="url(#shadow)"/>
+  <g transform="rotate(-18 240 177)">
+    <ellipse cx="240" cy="177" rx="115" ry="151" fill="#07080a" stroke="#66686d" stroke-width="3"/>
+    <ellipse cx="240" cy="177" rx="101" ry="137" fill="url(#rubber)" stroke="#111215" stroke-width="13"/>
+    <ellipse cx="240" cy="177" rx="88" ry="124" fill="none" stroke="#73757a" stroke-opacity=".55" stroke-width="2"/>
+    <ellipse cx="240" cy="177" rx="74" ry="109" fill="#151619" stroke="url(#metal)" stroke-width="10"/>
+    <ellipse cx="240" cy="177" rx="57" ry="89" fill="#25262a" stroke="#7a7d82" stroke-width="4"/>
+    <ellipse cx="240" cy="177" rx="18" ry="28" fill="url(#metal)" stroke="#242529" stroke-width="5"/>
+    <g stroke="#babdc1" stroke-width="3" opacity=".85">
+      <path d="M240 88v61M240 205v61M183 177h39M258 177h39M200 113l28 44M252 196l28 45M197 242l31-46M252 158l29-44"/>
+      <path d="M240 88v61M240 205v61M183 177h39M258 177h39M200 113l28 44M252 196l28 45M197 242l31-46M252 158l29-44" transform="rotate(22 240 177)" opacity=".58"/>
+    </g>
+    <g fill="#0b0c0e" stroke="#707278" stroke-width="2">
+      <path d="M223 32l14-9 10 14-14 10zm42 6 16-5 7 16-16 6zm-87 32 11-13 14 10-10 14zm-30 37 6-17 17 6-6 17zm-9 47 1-18 18 1-1 18zm9 50-5-17 17-7 6 18zm30 43-10-15 13-10 11 15zm46 28-14-11 10-14 14 11zm46-3-9-16 15-10 9 16zm38-29-15-10 10-15 15 10zm21-43-17-6 6-17 17 6zm1-49-18 1-1-18 18-1zm-23-47-16 7-7-17 17-7zm-42-34-12 14-14-11 12-14z"/>
+    </g>
+    <path d="M169 75c18-47 54-77 91-80m-111 136c-6 29-4 61 8 91" fill="none" stroke="#d8d9da" stroke-opacity=".28" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <path d="M340 62l47-15m-35 29 57-13M86 260l48-12m-62 31 36-9" stroke="#e63946" stroke-width="3" stroke-linecap="round" opacity=".75"/>
+  <text x="245" y="327" fill="#bcbcc0" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="4" text-anchor="middle">2.75 — 18</text>
+</svg>

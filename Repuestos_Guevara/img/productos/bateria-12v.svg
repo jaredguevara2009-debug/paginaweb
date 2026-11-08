@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ilustración referencial de una batería de motocicleta de 12 voltios">
+  <defs>
+    <linearGradient id="case" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55575c"/><stop offset=".18" stop-color="#26272b"/><stop offset=".55" stop-color="#121316"/><stop offset=".82" stop-color="#303136"/><stop offset="1" stop-color="#090a0c"/></linearGradient>
+    <linearGradient id="cap" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#c5c7c9"/><stop offset=".45" stop-color="#55575c"/><stop offset="1" stop-color="#202125"/></linearGradient>
+    <linearGradient id="label" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e84752"/><stop offset="1" stop-color="#971521"/></linearGradient>
+    <radialGradient id="shadow"><stop stop-color="#000" stop-opacity=".48"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="243" cy="300" rx="137" ry="22" fill="url(#shadow)"/>
+  <path d="M135 107h207l18 19v144q0 12-14 12H143q-13 0-13-12V126z" fill="url(#case)" stroke="#929499" stroke-width="3"/>
+  <path d="M133 107h210v20H133z" fill="url(#cap)" stroke="#b3b5b8" stroke-width="2"/>
+  <path d="M164 87h38v20h-38zm111 0h38v20h-38z" fill="url(#cap)" stroke="#25262a" stroke-width="3"/>
+  <path d="M149 151h187v94H149z" fill="url(#label)" stroke="#f35a64" stroke-width="2"/>
+  <path d="M149 151h187v10H149z" fill="#151619"/>
+  <path d="M149 232h187v13H149z" fill="#151619"/>
+  <text x="242" y="197" fill="#fff" font-family="Arial,sans-serif" font-size="41" font-weight="800" text-anchor="middle">12V</text>
+  <text x="242" y="220" fill="#f3dfe0" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="4" text-anchor="middle">MOTO</text>
+  <path d="M182 139v-13m111 13v-13" stroke="#e63946" stroke-width="3"/>
+  <circle cx="183" cy="132" r="3" fill="#f0b94d"/><circle cx="294" cy="132" r="3" fill="#151619"/>
+  <text x="183" y="147" fill="#e8e8e9" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="middle">+</text>
+  <text x="294" y="147" fill="#e8e8e9" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="middle">−</text>
+  <path d="M345 79l39-13m-27 26 48-14M88 262l39-12" stroke="#e63946" stroke-width="3" stroke-linecap="round" opacity=".75"/>
+  <text x="240" y="326" fill="#bcbcc0" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="4" text-anchor="middle">ENERGÍA PARA TU MOTO</text>
+</svg>

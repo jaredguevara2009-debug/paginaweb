@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ilustración referencial de pastillas de freno">
+  <defs>
+    <linearGradient id="pad" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c7c8ca"/><stop offset=".24" stop-color="#797b80"/><stop offset=".5" stop-color="#343539"/><stop offset=".76" stop-color="#8b8d92"/><stop offset="1" stop-color="#25262a"/></linearGradient>
+    <linearGradient id="friction" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#45464a"/><stop offset=".55" stop-color="#1a1b1e"/><stop offset="1" stop-color="#55575b"/></linearGradient>
+    <radialGradient id="shadow"><stop stop-color="#000" stop-opacity=".5"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="239" cy="299" rx="145" ry="22" fill="url(#shadow)"/>
+  <g transform="rotate(-9 167 180)">
+    <path d="M99 126q0-14 15-20l69-17q14-3 20 11l38 96q5 14-8 22l-66 34q-13 7-22-5z" fill="url(#pad)" stroke="#d1d2d4" stroke-width="3"/>
+    <path d="M120 126l67-17 39 91-65 34z" fill="url(#friction)" stroke="#16171a" stroke-width="3"/>
+    <path d="M145 121l15-4m-11 20 18-5m-10 21 18-5m-10 21 18-5m-10 20 18-5" stroke="#85878c" stroke-width="3" opacity=".55"/>
+    <circle cx="120" cy="130" r="7" fill="#cfd0d2" stroke="#38393d" stroke-width="3"/>
+  </g>
+  <g transform="rotate(10 311 180)">
+    <path d="M239 114q3-15 18-16l74 3q15 1 18 16l16 102q2 15-12 20l-72 23q-15 5-21-9z" fill="url(#pad)" stroke="#d1d2d4" stroke-width="3"/>
+    <path d="M260 119l72 3 16 96-72 22z" fill="url(#friction)" stroke="#16171a" stroke-width="3"/>
+    <path d="M276 126l17 1m-14 20 18 1m-14 20 18 1m-14 20 18 1" stroke="#85878c" stroke-width="3" opacity=".55"/>
+    <circle cx="330" cy="125" r="7" fill="#cfd0d2" stroke="#38393d" stroke-width="3"/>
+  </g>
+  <path d="M83 74l37-12m-27 25 48-14M346 283l39-12" stroke="#e63946" stroke-width="3" stroke-linecap="round" opacity=".75"/>
+  <text x="240" y="326" fill="#bcbcc0" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="4" text-anchor="middle">SISTEMA DE FRENADO</text>
+</svg>
